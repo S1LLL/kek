@@ -1,0 +1,105 @@
+.one-1{
+    text-shadow:5px 10px 3px black;
+}
+.one-2{
+    text-shadow: -10px -5px green;
+}
+.one-3{
+    text-shadow: 10px 15px yellow;
+}
+.one-4{
+    text-shadow: 0px 0px 5px green;
+}
+.one-5{
+    text-shadow: -10px -10px red, 10px 10px green;
+}
+.two-1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 15px 20px 5px red;
+}
+.two-2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 15px -20px green;
+}
+.two-3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: inset 4px 3px 3px black;
+}
+.two-4{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 10px 10px green, -10px -10px red;
+}
+.two-5{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 10px 0px red, -10px 0px green, 0px 10px  blue, 0px -10px orange;
+}
+.in3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background: linear-gradient(yellow, white)
+}
+.in4{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background: linear-gradient(to right, yellow, white)
+}
+.in5{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background: linear-gradient(to left, yellow, white)
+}
+.in6{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background: linear-gradient(to top left, red, white)
+}
+.in7{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background: linear-gradien(red 50px)
+}
+.k1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background: radial-gradient(white, blue)
+}
+.k2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background: radial-gradient(at 100px 30px, white, blue)
+}
+.k3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background: radial-gradient(white, blue)
+}
+.k4{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background: radial-gradient(black 15px, white 55px, green 40px)
+}
+.k5{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background: radial-gradient(green 15px, white 55px, green 20px)
+}
